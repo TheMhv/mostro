@@ -59,7 +59,7 @@ cargo --version
 ### Install dependencies
 
 ```bash
-apt-get install cmake build-essential libsqlite3-dev libssl-dev pkg-config git sqlite3 -y
+apt-get install cmake build-essential libsqlite3-dev libssl-dev pkg-config git sqlite3 protobuf-compiler -y
 ```
 
 ### Compile Mostro
